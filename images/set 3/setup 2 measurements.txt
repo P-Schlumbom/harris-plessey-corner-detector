@@ -1,0 +1,4 @@
+Rcam to obj: 0.322 m
+Lcam to obj: 0.323 m
+cam to floor: 0.989 m
+obj to floor: 0.846 m
